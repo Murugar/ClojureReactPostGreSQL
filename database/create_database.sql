@@ -1,0 +1,2 @@
+CREATE DATABASE echo;
+GRANT ALL ON DATABASE echo TO postgres;
